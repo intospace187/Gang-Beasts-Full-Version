@@ -238,4 +238,4 @@ This repository serves as the official landing page for Gang Beasts. The softwar
 **Get the most recent version of Gang Beasts today!**
 
 ---
-**Last updated:** 2026-10-22 08:03:13 UTC
+**Last updated:** 2026-10-22 14:10:53 UTC
